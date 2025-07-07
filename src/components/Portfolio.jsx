@@ -27,13 +27,13 @@ const Portfolio = () => {
       repo: "https://github.com/SagarKharat94440/Weather-app",
       title: "Weather App",
     },
-    {
-      id: 4,
-      src: todo,
-      link: "https://seequenze-technologies-assignment-ashen.vercel.app/",
-      repo: "https://github.com/SagarKharat94440/TODO_List",
-      title: "To-Do List App",
-    },
+    // {
+    //   id: 4,
+    //   src: todo,
+    //   link: "https://seequenze-technologies-assignment-ashen.vercel.app/",
+    //   repo: "https://github.com/SagarKharat94440/TODO_List",
+    //   title: "To-Do List App",
+    // },
   ];
 
   return (
