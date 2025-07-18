@@ -2,7 +2,7 @@ import React from "react";
 import food from "../assets/portfolio/food.png";
 import weather from "../assets/portfolio/weather.jpg";
 import wonderlust from "../assets/portfolio/wonderlust.png";
-import todo from "../assets/portfolio/todo.png";
+
 
 const Portfolio = () => {
   const portfolios = [
